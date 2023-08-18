@@ -1,0 +1,49 @@
+h3 {
+    color: green;
+    background-color: aqua;
+}
+
+p {
+    color: pink;
+    font-family: "Tilt Prism";
+}
+
+#here {
+    color: gold;
+    background-image: url("https://picsum.photos/200/300");
+}
+
+.hello {
+    color: purple;
+}
+
+p.center {
+    text-align: center;
+}
+
+p#size {
+    font-size: 50px;
+}
+
+ul.english > li {
+    color: royalblue;
+}
+
+ul.korean > li {
+    /* color: gray; */
+    color: #9c3737;
+}
+
+.korean {
+    /* border-width: 2px;
+    border-style: dashed;
+    border-color: bisque; */
+    border: 2px dashed bisque;
+    border-radius: 5px;
+}
+
+.english {
+    /* margin-top: 50px; */
+    margin: 25px 50px 75px 100px;
+}
+
